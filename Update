@@ -1,9 +1,9 @@
 {
   "showDialog": true,
   "appVersionCode": 1,
-  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
-  "updateButtonText": "Update",
-  "updateButtonLink": "https://google.com",
+  "messageText": "Oops! 🥵 Nova Atualização Disponível , Por Favor Atualiza o app.",
+  "updateButtonText": "Atualizar",
+  "updateButtonLink": "https://youtube.com/@internetcell?si=fNmKsDcma1fgewhS",
   "updateButtonGradientStartColor": "#1E88E5",
   "updateButtonGradientEndColor": "#64B5F6",
   "cancelButtonText": "Cancel",
